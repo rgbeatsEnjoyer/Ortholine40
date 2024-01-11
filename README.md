@@ -4,10 +4,10 @@ A 40% ortholinear mx mechanical keyboard powered by a proMicro or equivalent.
 This keyboard is discontinued. While it should still work, there may be incompatibilities with some current and future operating systems.
 
 # Specifications
--1.6mm PCB
--proMicro (or equivalent) controller board
--44x SOD-123 diodes
--44x mx switches
+- 1.6mm PCB
+- proMicro (or equivalent) controller board
+- 44x SOD-123 diodes
+- 44x mx switches
 
 # Assembly instructions
 1) solder the diodes and the reset switch (optional).
